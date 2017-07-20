@@ -2,7 +2,7 @@
 
 > vue-wangyiMusic
 
-![](http://www.baidu.com/img/bdlogo.gif)  
+![](http://www.pppoo.com/blog/upload/music163_logo.jpg)  
 
 ## Build Setup
 
