@@ -2,6 +2,8 @@
 
 > vue-wangyiMusic
 
+![](http://www.baidu.com/img/bdlogo.gif)  
+
 ## Build Setup
 
 ``` bash
