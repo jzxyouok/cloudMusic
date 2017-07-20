@@ -1,4 +1,4 @@
-# wangyi
+# 基于Vue生态仿网易云音乐pc客户端
 
 > vue-wangyiMusic
 
