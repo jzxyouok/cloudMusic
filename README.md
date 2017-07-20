@@ -1,6 +1,6 @@
 # 基于Vue生态仿网易云音乐pc客户端
 
-> vue-wangyiMusic
+> 技术栈vue+vue-router+axios+vuex+es5/6+stylus
 
 ![](http://www.pppoo.com/blog/upload/music163_logo.jpg)  
 
