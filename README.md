@@ -1,6 +1,8 @@
 # 基于Vue生态仿网易云音乐pc客户端
 
 > 技术栈vue+vue-router+axios+vuex+es5/6+stylus
+> 参考教程：http://coding.imooc.com/class/107.html
+> 参考书籍：《es6入门标准》《css揭秘》等
 
 ![](http://www.pppoo.com/blog/upload/music163_logo.jpg)  
 
