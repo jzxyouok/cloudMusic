@@ -4,7 +4,7 @@
 ### 参考教程：http://coding.imooc.com/class/107.html
 ### 参考书籍：《es6入门标准》《css揭秘》等
 
-### 部分截图
+### 项目还有很多需要完善，大约一月更新一次。以下部分截图：
 ![](https://github.com/xiaozhu188/cloudMusic/raw/master/screen/wangyi1.png)
 
 ![](https://github.com/xiaozhu188/cloudMusic/raw/master/screen/wangyi2.png)
