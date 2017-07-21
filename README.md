@@ -4,6 +4,8 @@
 ### 参考教程：http://coding.imooc.com/class/107.html
 ### 参考书籍：《es6入门标准》《css揭秘》等
 
+![](https://github.com/xiaozhu188/cloudMusic/raw/master/screen/wangyi1.png)
+
 ![](http://www.pppoo.com/blog/upload/music163_logo.jpg)  
 
 ## Build Setup
